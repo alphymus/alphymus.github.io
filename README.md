@@ -1,3 +1,3 @@
 # alphymus.github.io
 about me
-<a href="alphymus.github.io/blog">My Posts</a>
+Have a look at [my posts](alphymus.github.io/blog)
